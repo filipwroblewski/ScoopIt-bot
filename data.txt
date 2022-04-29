@@ -1,0 +1,16 @@
+excample@mail.com
+https://scipy.org/
+Module SciPy contains fundamental algorithms for scientific computing. 
+It ables:
+- FUNDAMENTAL ALGORITHMS
+SciPy provides algorithms for optimization, integration, interpolation, eigenvalue problems, algebraic equations, differential equations, statistics and many other classes of problems.
+- BROADLY APPLICABLE
+The algorithms and data structures provided by SciPy are broadly applicable across domains.
+- FOUNDATIONAL
+Extends NumPy providing additional tools for array computing and provides specialized data structures, such as sparse matrices and k-dimensional trees.
+- PERFORMANT
+SciPy wraps highly-optimized implementations written in low-level languages like Fortran, C, and C++. Enjoy the flexibility of Python with the speed of compiled code.
+- EASY TO USE
+SciPy’s high level syntax makes it accessible and productive for programmers from any background or experience level.
+- OPEN SOURCE
+Distributed under a liberal BSD license, SciPy is developed and maintained publicly on GitHub by a vibrant, responsive, and diverse community.
